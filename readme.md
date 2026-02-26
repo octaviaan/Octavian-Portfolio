@@ -1,3 +1,6 @@
+<img width="905" height="769" alt="Screenshot 2026-02-26 at 20 54 55" src="https://github.com/user-attachments/assets/76be7448-9872-4cef-8b6d-27a18b24960c" />
+
+
 # Octavian Todirut  
 **Senior Product & Visual Designer + Creative Technologist**  
 Remote + Bucharest  
