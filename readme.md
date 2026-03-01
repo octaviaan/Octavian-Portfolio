@@ -59,12 +59,12 @@ Senior Product and Visual Designer with 15+ years of experience and 8+ years in 
 ### Senior Product Designer @ Digital M.O.B  
 **Oct 2025 – Jan 2026 (Remote)**  
 
-**Taler Finance**  
+**Ethereum Mainnet Stablecoin Vault**  
 - Led end-to-end UI/UX design for a new DeFi product.  
 - Delivered concept wireframes, high-fidelity mockups, and interactive prototypes.  
 - Defined user experience for complex financial actions (yield farming, token swapping), prioritizing simplicity and accessibility.  
 
-**Breakaway Festival**  
+**Music Festival**  
 - Developed a high-profile, feature-rich iOS application for a major U.S. music festival.  
 - Managed end-to-end mobile development including UI design.  
 - Delivered a robust, scalable app serving as the primary digital guide for thousands of attendees.  
