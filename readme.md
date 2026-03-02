@@ -5,7 +5,7 @@
 **Senior Product & Visual Designer + Creative Technologist**  
 Remote + Bucharest  
 
-**Portfolio:** [Octavian's Portfolio]([https://www.figma.com/proto/JLrOm2x3UF791cQKeZxupW/octavian-work?page-id=0%3A1&node-id=0-1](https://www.figma.com/proto/JLrOm2x3UF791cQKeZxupW/octavian-work?page-id=0%3A1&node-id=688-6829&starting-point-node-id=688%3A6030&scaling=scale-down&content-scaling=fixed))  
+**Portfolio:** [Octavian's Portfolio](https://www.figma.com/proto/JLrOm2x3UF791cQKeZxupW/octavian-work?page-id=0%3A1&node-id=688-6030&starting-point-node-id=688%3A6030&scaling=scale-down&content-scaling=fixed)
 **GitHub:** https://github.com/octaviaan  
 **LinkedIn:** https://www.linkedin.com/in/octanaiv  
 **Prints:** https://cargocollective.com/octaviaan  
